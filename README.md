@@ -1,5 +1,6 @@
 👋 Hi, I'm N J
 
+
 🔭 I'm currently working on Power BI, SQL & Data Analytics projects
 
 🌱 I'm currently learning Python, Advanced SQL & Power BI
