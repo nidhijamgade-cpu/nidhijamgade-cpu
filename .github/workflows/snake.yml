@@ -19,7 +19,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
